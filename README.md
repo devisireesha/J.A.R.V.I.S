@@ -1,0 +1,1 @@
+This project is a voice assistant. It's a digital helper that uses voice recognition, language processing, and voice synthesis to listen to your voice commands and respond with information or actions. It's a hands-free tool that can be helpful for people of all ages.
